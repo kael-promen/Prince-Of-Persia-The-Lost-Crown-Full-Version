@@ -240,3 +240,6 @@ This repository serves as the official landing page for **Prince of Persia: The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Prince of Persia: The Lost Crown today!**
+
+---
+**Last updated:** 2026-09-10 17:26:03 UTC
