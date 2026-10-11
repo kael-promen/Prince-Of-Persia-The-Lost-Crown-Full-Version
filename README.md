@@ -242,4 +242,4 @@ This repository serves as the official landing page for **Prince of Persia: The 
 **Get the most recent version of Prince of Persia: The Lost Crown today!**
 
 ---
-**Last updated:** 2026-10-10 22:08:16 UTC
+**Last updated:** 2026-10-11 01:27:53 UTC
